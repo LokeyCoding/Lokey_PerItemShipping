@@ -1,0 +1,15 @@
+{
+    "name": "LokeyCoding/Lokey_PerItemShipping",
+    "description": "Magento Per-Item Shipping Adjustments Module",
+    "authors": [
+        {
+            "name": "Lee Saferite",
+            "email": "lee@saferite.com"
+        }
+    ],
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "LokeyCoding/Lokey_ShippingAdjustments": "*" 
+    }
+}
